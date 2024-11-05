@@ -5,8 +5,8 @@ iframe {
   border-radius: 30px;
 }
 .ytvid { 
-  width: auto;
-  height: auto;
+  width: 560px;
+  height: 316px;
   margin-top: 80px;
   border-radius: 30px;
 }
@@ -211,8 +211,8 @@ li {
   padding: 0;
   }
   .ytvid {
-    width: 500;
-    height: 400;
+    width: 420px;
+    height: 237px;
 
   }
   #header {
