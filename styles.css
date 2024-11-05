@@ -5,8 +5,8 @@ iframe {
   border-radius: 30px;
 }
 .ytvid { 
-  width: 560px;
-  height: 316px;
+  width: auto;
+  height: auto;
   margin-top: 80px;
   border-radius: 30px;
 }
